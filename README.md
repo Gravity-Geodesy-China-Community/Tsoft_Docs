@@ -1,8 +1,8 @@
-[![PRs Welcome](PRs-welcome-brightgreen.svg)](https://gohugo.io/contribute/documentation/)
+[![PRs Welcome](README.assets/PRs-welcome-brightgreen.svg)](https://gohugo.io/contribute/documentation/)
 
 # Tsoft软件中文手册
 
-[![github](https://img.shields.io/badge/%E7%89%88%E6%9C%AC-1.0-brightgreen)](https://github.com/snowdreams1006)
+[![github](https://gitee.com/georgegou/mark-down_picture/raw/picture/2021/%E7%89%88%E6%9C%AC-1.0-brightgreen)](https://github.com/George-Gou)
 
 [Tsoft](http://seismologie.oma.be/en/downloads/tsoft)为比利时皇家天文台[Paul Vauterin](https://dl.acm.org/profile/81447602553)教授和[Michel J Van Camp](https://dl.acm.org/profile/81447599155)教授开发，是一个广泛应用于时间序列和地球潮汐序列的软件包。
 
@@ -19,3 +19,4 @@ Tsoft最大的特点是具有较友好的图形界面和丰富的脚本处理能
 ## 开源协议
 
 本文档采用[MIT](https://opensource.org/licenses/MIT)开源协议
+
